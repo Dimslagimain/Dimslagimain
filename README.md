@@ -1,16 +1,64 @@
-## Hi there 👋
+                    👋 Hi, I'm Dimas
 
-<!--
-**Dimslagimain/Dimslagimain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       Full-Stack Developer | AI, Mobile & IoT Enthusiast
 
-Here are some ideas to get you started:
+     Building digital solutions through Web, AI, IoT & Mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────────────
+
+🚀 ABOUT ME
+
+💻 Full-Stack & Software Development
+🤖 Artificial Intelligence & Computer Vision
+📱 Mobile App Development
+🔌 IoT & Embedded Systems
+🗄️ Database & Cloud Deployment
+
+────────────────────────────────────────────────────
+
+🛠 TECH STACK
+
+Frontend
+JavaScript | TypeScript | React | Next.js
+
+Backend
+PHP | Laravel | Node.js
+
+AI & Data
+Python | TensorFlow | CNN
+
+Mobile
+React Native | Expo
+
+IoT
+Arduino | ESP32 | C++
+
+Database & Cloud
+MySQL | PostgreSQL | Supabase | Railway
+
+────────────────────────────────────────────────────
+
+🔥 FEATURED PROJECTS
+
+🌿 Herbal Leaf Classification
+AI-powered mobile application using CNN.
+
+🔥 IoT Fire & Gas Monitoring
+Smart monitoring system using ESP32 and Telegram.
+
+✈️ LDND Dashboard
+Dashboard system for monitoring aircraft-related operations.
+
+📄 SPJ Office System
+Digital workflow system for managing SPJ submissions
+and fund disbursement.
+
+────────────────────────────────────────────────────
+
+📊 GitHub Stats
+🔥 Contribution Streak
+
+────────────────────────────────────────────────────
+
+🌐 Let's Connect
+LinkedIn • Email • GitHub
