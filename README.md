@@ -4,20 +4,20 @@
 
 <!-- Animated typing tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Developer+%7C+AI%2C+Mobile+%26+IoT+Enthusiast;Building+digital+solutions+%F0%9F%9A%80;Web+%E2%80%A2+AI+%E2%80%A2+IoT+%E2%80%A2+Mobile;Turning+ideas+into+real+products+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Software+Developer+%7C+AI%2C+Mobile+%26+IoT+Enthusiast;Building+digital+solutions+%F0%9F%9A%80;Web+%E2%80%A2+AI+%E2%80%A2+IoT+%E2%80%A2+Mobile;Turning+ideas+into+real+products+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## About Me
 
-I'm Dimas, a **Full-Stack Developer** who enjoys turning ideas into real, useful digital products. With a background in Computer Systems, I'm used to moving across domains — from building web and mobile applications, to training AI models for image classification, to designing IoT-based monitoring systems. To me, coding isn't just about writing functions that work, it's about understanding real problems and finding the solution that fits best — whether through code, sensors, or machine learning models. I'm also always learning something new with every project, because the process of exploring is just as exciting as the end result.
+I'm Dimas, a **Software Developer** who enjoys turning ideas into real, useful digital products. With a background in Computer Systems, I'm used to moving across domains — from building web and mobile applications, to training AI models for image classification, to designing IoT-based monitoring systems. To me, coding isn't just about writing functions that work, it's about understanding real problems and finding the solution that fits best — whether through code, sensors, or machine learning models. I'm also always learning something new with every project, because the process of exploring is just as exciting as the end result.
 
 <br>
 
 ## Interests
 
-- 💻 Full-Stack & Software Development
+- 💻 Software Development
 - 🤖 Artificial Intelligence & Computer Vision
 - 📱 Mobile App Development
 - 🔌 IoT & Embedded Systems
