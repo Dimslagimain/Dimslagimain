@@ -10,9 +10,10 @@
 </div>
 
 ## About Me
+<div align="justify">
+<b>Software Developer</b> who enjoys turning ideas into real, useful digital products. With a background in Computer Systems, I'm used to moving across domains — from building web and mobile applications, to training AI models for image classification, to designing IoT-based monitoring systems. To me, coding isn't just about writing functions that work, it's about understanding real problems and finding the solution that fits best — whether through code, sensors, or machine learning models. I'm also always learning something new with every project, because the process of exploring is just as exciting as the end result.
 
-I'm Dimas, a **Software Developer** who enjoys turning ideas into real, useful digital products. With a background in Computer Systems, I'm used to moving across domains — from building web and mobile applications, to training AI models for image classification, to designing IoT-based monitoring systems. To me, coding isn't just about writing functions that work, it's about understanding real problems and finding the solution that fits best — whether through code, sensors, or machine learning models. I'm also always learning something new with every project, because the process of exploring is just as exciting as the end result.
-
+</div>
 <br>
 
 ## Interests
